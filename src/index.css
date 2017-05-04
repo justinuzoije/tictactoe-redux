@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#wrapper{
+  width: 62vh;
+  height: 70vh;
+  /*border: 1px solid red;*/
+}
+
+.button{
+  float: left;
+  width: 20vh;
+  height: 20vh;
+  border: 1px solid black;
+  font-size: 20vh;
+  text-align: center;
+}
+
+span{
+  position: relative;
+  top: -3vh;
+}
